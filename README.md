@@ -1,4 +1,4 @@
-### Hi there 👋
+## Better good neighbours near than relations far away. 👋
 
 <!--
 **AllenXZHb/AllenXZHb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
